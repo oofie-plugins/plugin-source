@@ -36,9 +36,9 @@ You will need to add **three** repositories. Mine, illumines, and Owains.
 
 Mine:
 
-- **Owner:** MeApeSmallBrain
+- **Owner:** oofie-plugins
 
-- **Name:** oofie-plugins
+- **Name:** plugins
 
 illumine's:
 
