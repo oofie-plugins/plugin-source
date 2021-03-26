@@ -1,23 +1,28 @@
-# Oofie Plugins
-Molten Glass Maker
-- Start in Edgeville bank. Have Buckets of Sand and Soda Ash.
-- Bugs
-    - Run being turned on while making glass will cause the bot to get stuck in "Animating"
-   
+# Oofie Plugins   
+
+Kitten Grower
+- Grows Kitten to Kat
+- Feeds and Pets
+- Calls pet if too far away before feeding/petting
+- Picks cat up if out of food.
+
 Smelter
 - Start in Edgeville bank. Have required ores.
-- Bugs
-    - Withdrawing Bronze bars only withdraws copper ore.
+- Also makes Molten Glass
 
 Superheat
-- Start near a BANK BOOTH. Have Fire Staff/Tome of fire + Nature runes. Have required ores.
-- Need to add Ores other than Silver, Gold, Iron.
+- Start near a BANK BOOTH or at GE
+- Have Fire Staff/Tome of fire + Nature runes. Have required ores.
+
+Chop n' Fletch
+- Have knife in inventory
+- Start anywhere near trees
+- This will wander far as I have not added limits to how far it should look.
 
 Khazard Miner
 - Start at Fishing Trawler Deposit Box or 3 Iron ore spot further south.
-- Mines and banks iron ore. Why would you want to mine here???
-- Bugs
-    - Useless.
+- Mines and banks iron ore.
+
     
     
     
@@ -42,7 +47,6 @@ illumine's:
 - **Name:** illu-plugins
 
 owain's:
+- **Owner:** owain94
 
-- **Owner:** illumineawake
-
-- **Name:** illu-plugins
+- **Name:** OpenOSRS-external-plugins-hosting
